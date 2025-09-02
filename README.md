@@ -1,3 +1,3 @@
-Aqui estará toda a documentação de facil acesso do meu projeto
+Aqui vai ser a alteração para o que é semantico
 
-Agora estou fazendo outra alteração
+a versão tal e tal e tal
